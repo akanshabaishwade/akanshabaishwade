@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akanshabaishwade@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/174vtEUTbVRRtxvF8yqH_nIL3j_CJoQ_M/view?usp=sharing](https://drive.google.com/file/d/174vtEUTbVRRtxvF8yqH_nIL3j_CJoQ_M/view?usp=sharing)
+- 📄 Here is my [RESUME](https://drive.google.com/file/d/174vtEUTbVRRtxvF8yqH_nIL3j_CJoQ_M/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

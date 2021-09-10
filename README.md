@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakanksha</h1>
-<h3 align="center">I am student,currently I am trying to improve my skills. for which i am doing competitive programming.</h3>
+<h3 align="center">I am student currently I am trying to improve my skills. for which i am doing competitive programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanshabaishwade&label=Profile%20views&color=0e75b6&style=flat" alt="akanshabaishwade" /> </p>
 
@@ -16,8 +16,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akankshabaishw1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akankshabaishw1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akansha-baishwade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akansha-baishwade/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akanshabaishwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://akanshabaishwade" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akansha-baishwade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akansha-baishwade/" height="30" width="40" /></a>
+<a href="https://instagram.com/zypsy_akansha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zypsy_akansha" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/akanksha_74711" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akanksha_74711" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akanshabaishwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akanshabaishwade" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/akanksha_baishwade" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="akanksha_baishwade" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@akanshabaishwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akanshabaishwade" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akanshabaishwade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akanshabaishwade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

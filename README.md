@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Chocolate Eshop](https://github.com/akanshabaishwade/Eshop_django)
 
-- 👨‍💻 All of my projects are available at [https://github.com/akanshabaishwade](https://github.com/akanshabaishwade)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/akanshabaishwade)
 
 - 📫 How to reach me **akanshabaishwade@gmail.com**
 

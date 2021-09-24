@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on [Chocolate Eshop](https://github.com/akanshabaishwade/Eshop_django)
 
-- 👨‍💻 All of my projects are available at [Website](https://akanshabaishwade.github.io/My__Portfolio/iPortfolio/index.html)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/akanshabaishwade)
 
 - 📫 How to reach me **akanshabaishwade@gmail.com**
 
 - 📄 Here is my [RESUME](https://drive.google.com/file/d/174vtEUTbVRRtxvF8yqH_nIL3j_CJoQ_M/view?usp=sharing)
+
+- 📄 Here is my [Portfolio](https://akanshabaishwade.github.io/My__Portfolio/iPortfolio/index.html)
 
 
 <h3 align="left">Connect with me:</h3>

@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akanshabaishwade@gmail.com**
 
-- 📄 Here is my [RESUME](https://drive.google.com/file/d/174vtEUTbVRRtxvF8yqH_nIL3j_CJoQ_M/view?usp=sharing)
+- 📄 Here is my [RESUME](https://drive.google.com/file/d/1ak58jCo7TAlxbn6nLAjvp8qWhOhE8ChS/view?usp=sharing)
 
 - 📄 Here is my [Portfolio](https://akanshabaishwade.github.io/My__Portfolio/iPortfolio/index.html)
 

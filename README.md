@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakanksha</h1>
+<h1 align="center">Hi 👋, I'm Akanksha</h1>
 <h3 align="center">I am student currently I am trying to improve my skills. for which i am doing competitive programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanshabaishwade&label=Profile%20views&color=0e75b6&style=flat" alt="akanshabaishwade" /> </p>

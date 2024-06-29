@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
-<h3 align="center">I am student currently I am trying to improve my skills. for which i am doing competitive programming.</h3>
+<h3 align="center">Hello there! I'm a passionate Django developer with 3 years of experience in designing, developing, and maintaining robust web applications. I specialize in utilizing Python, Django, Django Rest Framework (DRF), and PostgreSQL to build high-performance RESTful APIs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanshabaishwade&label=Profile%20views&color=0e75b6&style=flat" alt="akanshabaishwade" /> </p>
 
